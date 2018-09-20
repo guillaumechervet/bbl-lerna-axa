@@ -1,6 +1,6 @@
 {
   "name": "@guillaume.chervet/comsomateursous",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "private": false,
   "main": "index.js",
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@guillaume.chervet/sousurmoncompte": "^1.0.0"
+    "@guillaume.chervet/sousurmoncompte": "^0.0.1"
   },
   "publishConfig": {
     "access": "public"
