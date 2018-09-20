@@ -1,3 +1,1 @@
-
-
-exports.MettreSous = (sous) => sous *2; 
+exports.MettreSous = sous => sous * 3;
