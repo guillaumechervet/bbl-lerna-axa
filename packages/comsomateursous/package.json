@@ -1,7 +1,8 @@
 {
-  "name": "comsomateursous",
+  "name": "@guillaume.chervet/comsomateursous",
   "version": "1.0.0",
   "description": "",
+  "private": false,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "@guillaume.chervet/sousurmoncompte": "^1.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
